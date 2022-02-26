@@ -1,1 +1,1 @@
-# 대문
+# Mini Project
